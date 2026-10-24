@@ -16,4 +16,4 @@ while guess != secret:
     elif guess > secret:
         print("Загаданное число меньше") 
 
-print(f"Ты угадал с {attempts} попытки")  
+print(f"Ты угадал за {attempts} попыток")  
